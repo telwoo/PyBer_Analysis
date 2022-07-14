@@ -4,10 +4,7 @@
 
 V. Isualize has given you and Omar a brand-new assignment. Overall goal is to create a summary DataFrame of the ride-sharing data by city type and a multiple-line graph that shows the total weekly fares for each city type. Both Omar and V. Isualize want to see visualizations that really illuminate the data previously described. 
 
-
 ## Results
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 After reviewing the details for the fare and ride per city type, the following details were noted:
 - Rural  total rides was 125, total drivers was 78, and total fare was $34.62
