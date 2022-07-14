@@ -19,10 +19,11 @@ In regards to the avergae fare per driver and per ride:
 - Suburaban average fare per ride was $30.97 and per driver was $39.50
 - Urban average fare per ride was $24.53 and per driver was $16.57
 
-In the image below, it shows that Rural fare from January through April had the most average fare and activities:
+In the image below, it shows that urban fare from January through April had the most average fare and activities (while rural had the least):
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/106715923/178859318-9191b878-b38a-40f2-a30a-d1204c0bb132.png)
 
+* This graph makes sense, as rural areas are more spread out than urban areas, whith more traffic and businesses nearby.
 
 ## Summary
 
