@@ -20,12 +20,16 @@ In the image below, it shows that urban fare from January through April had the 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/106715923/178859318-9191b878-b38a-40f2-a30a-d1204c0bb132.png)
 
-*This graph makes sense, as rural areas are more spread out than urban areas, whith more traffic and businesses nearby.*
+*This graph makes sense, as rural areas are more spread out than urban areas, whith more traffic and businesses nearby within urban areas.*
 
 ## Summary
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
 
+Overall, the following recommendations can be review by the BOD and ceo:
+1. Provide more services within the urban areas. That way, revenue can increase because there is more fare to collect.
+2. Put more availiablity within the rural areas. Although this could lead to a large expense (because few people are in these areas), this could potentially be a better outcome for the company. With customers noticing that the business is expanding, the customers will start to see it as respectful.
+3. Increase the drivers in Lak Jonathanshire. There appear to only be 5 drivers within that city, expand to reach a wider audience.
 
 
 
