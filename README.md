@@ -24,9 +24,7 @@ In the image below, it shows that urban fare from January through April had the 
 
 ## Summary
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
-
-Overall, the following recommendations can be review by the BOD and ceo:
+Overall, the following recommendations can be review by the BOD and CEO:
 1. Provide more services within the urban areas. That way, revenue can increase because there is more fare to collect.
 2. Put more availiablity within the rural areas. Although this could lead to a large expense (because few people are in these areas), this could potentially be a better outcome for the company. With customers noticing that the business is expanding, the customers will start to see it as respectful.
 3. Increase the drivers in Lak Jonathanshire. There appear to only be 5 drivers within that city, expand to reach a wider audience.
