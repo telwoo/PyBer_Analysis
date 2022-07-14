@@ -23,7 +23,7 @@ In the image below, it shows that urban fare from January through April had the 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/106715923/178859318-9191b878-b38a-40f2-a30a-d1204c0bb132.png)
 
-* This graph makes sense, as rural areas are more spread out than urban areas, whith more traffic and businesses nearby.
+*This graph makes sense, as rural areas are more spread out than urban areas, whith more traffic and businesses nearby.*
 
 ## Summary
 
