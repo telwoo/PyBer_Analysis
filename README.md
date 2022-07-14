@@ -10,7 +10,8 @@ V. Isualize has given you and Omar a brand-new assignment. Overall goal is to cr
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 
-
+Total Fare by City Image
+![PyBer_fare_summary](https://user-images.githubusercontent.com/106715923/178859318-9191b878-b38a-40f2-a30a-d1204c0bb132.png)
 
 
 ## Summary
